@@ -1,7 +1,7 @@
 #
 # To avoid log buffering:
 # "stdbuf -o L ros2 launch rtabmap_launch rtabmap.launch.py ..."
-#
+#HOLAAA PRUEBA 
 
 import os
 
